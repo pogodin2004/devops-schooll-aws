@@ -1,1 +1,1 @@
-# devops-schooll-aws
+# devops-school-aws
