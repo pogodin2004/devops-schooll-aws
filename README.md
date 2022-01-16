@@ -30,6 +30,7 @@
 ![](img/lbSG.png)
 
 6. Work with DB
+
 6.1 Create DB Subnet
 ![](img/db_subnet.png)
 
@@ -56,7 +57,7 @@
 
 9. Create Target Group
 ![](img/create_tg_1.png)
-![](img/create_tg2_2.png)
+![](img/create_tg_2.png)
 
 10. Create Load Balancer
 ![](img/create_lb_1.png)
